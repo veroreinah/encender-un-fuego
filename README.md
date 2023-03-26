@@ -4,6 +4,6 @@ Web programada durante la segunda sesión del [club 🌊 náutico](http://clubna
 
 Trabajo de [Daniel Pecharromán](https://es.linkedin.com/in/daniel-pecharrom%C3%A1n-67b38846) y [Verónica Reina](https://es.linkedin.com/in/veronicareinahernandez).
 
-_mi casa se estaba quemando y sólo podía salvar una cosa.
-decidí salvar el fuego. 🔥
-Jean Cocteau_
+_mi casa se estaba quemando y sólo podía salvar una cosa._
+_decidí salvar el fuego. 🔥_
+_Jean Cocteau_
